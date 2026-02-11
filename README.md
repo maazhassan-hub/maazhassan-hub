@@ -88,7 +88,7 @@
 ## 🔝 **Top Repo**
 
 <a href="https://github.com/maazhassan-hub/malwaredetectiontool">
-  <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=maazhassan-hub&repo=malwaredetectiontool&theme=dark&cache_seconds=0" alt="Malware Detection Tool" />
+  <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=maazhassa  n-hub&repo=malwaredetectiontool&theme=dark&cache_seconds=0" alt="Malware Detection Tool" />
 </a>
 
 <p align="left">
@@ -102,7 +102,7 @@
     <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="GitHub Contribution Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maazhassan-hub&theme=dark" />
   </div>
   <div style="flex: 1; min-width: 45%; margin: 10px;">
-    <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazhassan-hub&layout=compact&theme=dark" />
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maazhassan-hub&theme=nightowl)
   </div>
 </div>
 

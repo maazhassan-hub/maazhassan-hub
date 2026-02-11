@@ -85,11 +85,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCB2B?style=flat&logo=firebase&logoColor=white&labelColor=FFCB2B)
 
-## 🔝 **Top Repo**
+<!-- ## 🔝 **Top Repo**
 
 <a href="https://github.com/maazhassan-hub/malwaredetectiontool">
   <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=maazhassa  n-hub&repo=malwaredetectiontool&theme=dark&cache_seconds=0" alt="Malware Detection Tool" />
-</a>
+</a> -->
 
 <p align="left">
   <a href="https://github.com/maazhassan-hub?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-79ff97?style=for-the-badge&logo=koding&logoColor=0d1117"/></a>
@@ -101,9 +101,9 @@
   <div style="flex: 1; min-width: 45%; margin: 10px;">
     <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="GitHub Contribution Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maazhassan-hub&theme=dark" />
   </div>
-  <div style="flex: 1; min-width: 45%; margin: 10px;">
+  <!-- <div style="flex: 1; min-width: 45%; margin: 10px;">
     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maazhassan-hub&theme=nightowl)
-  </div>
+  </div> -->
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
